@@ -25,6 +25,8 @@ A full-stack **Hospital Management System** developed using **React.js**, **Java
 ### Database
 - MySQL
 - MySQL Workbench
+- Username: root
+- Password: root
 
 ### Tools
 - Eclipse IDE
